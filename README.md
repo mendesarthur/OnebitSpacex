@@ -1,5 +1,5 @@
 # Spacex web site clone
-## Responsive website project using Html5, Css3, Sass and Bootstrap5
+## Responsive website project using Sass and Bootstrap5
 # Home
 <img src="./images/homePrint.gif" width="500px">
 
